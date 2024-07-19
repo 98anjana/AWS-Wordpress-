@@ -1,1 +1,1 @@
-This repository showcases various projects built using Amazon Web Services (AWS) and Linux. Each project demonstrates different use cases and services within the AWS ecosystem, providing practical examples and solutions for cloud computing, infrastructure automation, and scalable application deployment. 
+
