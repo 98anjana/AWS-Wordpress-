@@ -1,10 +1,7 @@
 
                                    𝐇𝐨𝐰 𝐭𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐨𝐧 𝐀𝐖𝐒 𝐄𝐂𝟐: 𝐀 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐆𝐮𝐢𝐝𝐞
 
-
-
-Welcome to this step-by-step tutorial on deploying WordPress on AWS EC2! In this video, I'll walk you through the entire process of setting up a WordPress site using Amazon EC2.
-
+                                   
 1) 𝐋𝐚𝐮𝐧𝐜𝐡 𝐚𝐧 𝐄𝐂 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞
    
    *Launched a EC2 instance , name Wordpress-1.0 .
