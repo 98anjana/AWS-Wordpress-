@@ -63,4 +63,8 @@
   * Followed the WordPress installation wizard to complete the setup.
 
   ![Screenshot (106)](https://github.com/user-attachments/assets/98e8a73e-67dd-419b-829f-943422aad046)
+  ![Screenshot (107)](https://github.com/user-attachments/assets/c775735b-7493-4b4d-b2b7-996e9ab6b544)
+  ![Screenshot (109)](https://github.com/user-attachments/assets/f4ae8153-a7ff-464d-af61-d240bbdd9b07)
 
+
+ * 
