@@ -15,13 +15,16 @@
 ![Screenshot (100)](https://github.com/user-attachments/assets/141b5b23-7e56-497a-87c8-fabbd1363b9c)
 
 
+
+
    *Configure security groups to allow HTTP (port 80), HTTPS (port 443),RDP (port 3389) and SSH (port 22).
 
    ![Screenshot (103)](https://github.com/user-attachments/assets/06006d99-bd31-4146-8865-e80e2f475d26)
 
 
+
+
    *Allocate and associate an Elastic IP to your instance.
-   
    
  ![Screenshot (99)](https://github.com/user-attachments/assets/dacae25b-5992-4b01-805b-b0f7e8a207a0)
 
