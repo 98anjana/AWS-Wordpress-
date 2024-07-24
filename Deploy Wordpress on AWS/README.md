@@ -4,7 +4,7 @@
                                    
 1)𝐋𝐚𝐮𝐧𝐜𝐡 𝐚𝐧 𝐄𝐂 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞
    
-   * Launched a EC2 instance , name Wordpress-1.0 .
+   * I Launched a EC2 instance , name Wordpress-1.0 .
    
    * chose the Ubuntu AMI and the instance type was t2.micro .
    
