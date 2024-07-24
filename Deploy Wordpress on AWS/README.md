@@ -34,3 +34,6 @@
 
  * I used PuTTY to connect to my instance. I ensured I had the .ppk file for SSH access
  * I opened PuTTY, entered my Elastic IP, and loaded my private key.
+
+![Screenshot (104)](https://github.com/user-attachments/assets/7914bcdf-fbda-4672-863b-f6f195951dcf)
+
