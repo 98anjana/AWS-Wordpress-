@@ -28,3 +28,9 @@
    *Allocate and associate an Elastic IP to your instance.
    
 ![Screenshot (100)](https://github.com/user-attachments/assets/141b5b23-7e56-497a-87c8-fabbd1363b9c)
+
+
+2)𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐭𝐨 𝐘𝐨𝐮𝐫 𝐄𝐂𝟐 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞
+
+ *I used PuTTY to connect to my instance. I ensured I had the .ppk file for SSH access
+ * I opened PuTTY, entered my Elastic IP, and loaded my private key.
