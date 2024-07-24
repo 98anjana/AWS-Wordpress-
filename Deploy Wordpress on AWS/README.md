@@ -11,18 +11,13 @@
    *Created a new key pair WPkey-1.ppk file for SSH access. 
      (.ppk for use with putty & .pem for use with open SSH.)
    
- ![Screenshot (103)](https://github.com/user-attachments/assets/06006d99-bd31-4146-8865-e80e2f475d26)
-
+  ![Screenshot (99)](https://github.com/user-attachments/assets/dacae25b-5992-4b01-805b-b0f7e8a207a0)
 
 
    *Configure security groups to allow HTTP (port 80), HTTPS (port 443),RDP (port 3389) and SSH (port 22).
 
-  
- ![Screenshot (99)](https://github.com/user-attachments/assets/dacae25b-5992-4b01-805b-b0f7e8a207a0)
-
+  ![Screenshot (103)](https://github.com/user-attachments/assets/26b3564b-d963-4bca-bf13-15c8d2a68d9e)
 
    *Allocate and associate an Elastic IP to your instance.
    
-
-
 ![Screenshot (100)](https://github.com/user-attachments/assets/141b5b23-7e56-497a-87c8-fabbd1363b9c)
