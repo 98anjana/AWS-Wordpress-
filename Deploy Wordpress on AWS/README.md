@@ -44,3 +44,23 @@
 * Installed the MySQL server and secured the installation.
 
   ![Screenshot (105)](https://github.com/user-attachments/assets/c4cb1b28-09a9-47e1-a0e9-ce87507b9da1)
+
+  4)𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐌𝐲𝐒𝐐𝐋
+
+  * Created a MySQL database and user for WordPress.
+  * Granted the necessary permissions to the user.
+
+ 5)𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐚𝐧𝐝 𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐞 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬
+
+ * Downloaded the latest WordPress package.
+ * Extracted the package to the Apache web root directory.
+ * Configured the WordPress database settings.
+
+
+ 6)𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
+
+  * Opened my browser and navigated to my EC2 instance's public IP address.
+  * Followed the WordPress installation wizard to complete the setup.
+
+  ![Screenshot (106)](https://github.com/user-attachments/assets/98e8a73e-67dd-419b-829f-943422aad046)
+
