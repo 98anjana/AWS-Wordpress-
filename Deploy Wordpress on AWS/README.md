@@ -37,3 +37,10 @@
 
 ![Screenshot (104)](https://github.com/user-attachments/assets/7914bcdf-fbda-4672-863b-f6f195951dcf)
 
+3)𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐀𝐩𝐚𝐜𝐡𝐞, 𝐏𝐇𝐏, 𝐚𝐧𝐝 𝐌𝐲𝐒𝐐𝐋
+
+* Updated my package lists and installed the Apache web server.
+* Installed PHP and its necessary modules.
+* Installed the MySQL server and secured the installation.
+
+  ![Screenshot (105)](https://github.com/user-attachments/assets/c4cb1b28-09a9-47e1-a0e9-ce87507b9da1)
