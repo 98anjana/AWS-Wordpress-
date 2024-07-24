@@ -14,6 +14,7 @@
   ![Screenshot (99)](https://github.com/user-attachments/assets/dacae25b-5992-4b01-805b-b0f7e8a207a0)
 
 
+
    *Configure security groups to allow HTTP (port 80), HTTPS (port 443),RDP (port 3389) and SSH (port 22).
 
   ![Screenshot (103)](https://github.com/user-attachments/assets/26b3564b-d963-4bca-bf13-15c8d2a68d9e)
