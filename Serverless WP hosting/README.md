@@ -10,3 +10,6 @@ We will use the following AWS services:
 # Step 1: Setting Up Amazon Aurora Serverless for MySQL
 ## 1.1 Log in to AWS Management Console :
 Navigate to the AWS Management Console and log in with your credentials.
+
+## 1.2 Create an Amazon Aurora Serverless Database
+
